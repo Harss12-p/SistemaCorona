@@ -1,6 +1,6 @@
 print("Corona circular")
 radio_ma = float(input("ingrese radio mayor: "))
 radio_me = float(input("ingrese radio menor: "))
-area = 3.14*(readio_ma**2 - radio_me**2)
+area = 3.14*(radio_ma**2 - radio_me**2)
 print("resultado")
 print("Area:", area)
